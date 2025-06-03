@@ -2,7 +2,7 @@
 
 **Multi-Agent Intelligence for a Carbon-Neutral Europe**
 
-Welcome to the official GitHub organization for **Sustainable City AI** — a cutting-edge initiative developing scalable, AI-powered systems to drive sustainable energy decisions across the European Union.
+Welcome to the official GitHub organization for **Sustainable City AI** — a cutting-edge initiative developing scalable, AI-powered systems to drive sustainable energy decisions across the European Union 🇪🇺.
 
 Our mission is to bridge energy data, artificial intelligence, and everyday citizens through real-time insights and secure multi-agent collaboration — all in support of Europe’s climate goals.
 
