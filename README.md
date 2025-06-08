@@ -1,7 +1,7 @@
 # Documentation Runtime Architects
 Documentation of the Project
 
-## Contributions
+## Review Contributions
 Stats of the last 365 days for [Runtime-Architects](https://github.com/Runtime-Architects):
 | Avatar                                                                                     | User                | Total reviews        | Time to review                                                                                                   | Total comments |
 | ------------------------------------------------------------------------------------------ | ------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------- | -------------- |
