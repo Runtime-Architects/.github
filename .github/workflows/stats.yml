@@ -15,7 +15,7 @@ jobs:
         uses: flowwer-dev/pull-request-stats@master
         with:
           token: ${{ secrets.STATS }}
-          organization: 'ISPP-G5'
+          organization: 'Runtime-Architects'
           period: 365
           charts: true
           disableLinks: false
