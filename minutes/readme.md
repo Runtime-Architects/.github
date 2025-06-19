@@ -23,7 +23,7 @@ Below are the meeting minutes, organized by date. Click on a date to view the co
 - [16 June](06-16%20Minutes%2016%20Jun.pdf)
 - [19 June](06-19%20Minutes%2019%20Jun.pdf)
 - [19 June (Microsoft)](06-19%20Minutes%2019%20Jun%20Microsoft.pdf)
-- [19 June (Second)](06-19%20Minutes%2019%20Jun%20Second.pdf)
+- [19 June](06-19%20Minutes%2019%20Jun.pdf)
 
 ---
 
