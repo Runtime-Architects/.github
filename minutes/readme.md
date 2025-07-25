@@ -30,6 +30,10 @@ Below are the meeting minutes, organized by date. Click on a date to view the co
 ## **July 2024**
 - [02 July (Microsoft)](07-02%20Minutes%2002%20Jul%20Microsoft.pdf)
 - [07 July](07-07%20Minutes%2007%20Jul.pdf)
+- [08 July](07-08%20Minutes%2008%20Jul.pdf)
+- [13 July](07-13%20Minutes%2013%20Jul.pdf)
+- [23 July](07-23%20Minutes%2023%20Jul.pdf)
+- [23 July (Microsoft)](07-23%20Minutes%2023%20Jul%20Microsoft.pdf)
 
 ---
 
